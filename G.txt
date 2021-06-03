@@ -1,0 +1,6 @@
+5
+P --> E
+E --> E+T | E-T | T
+T --> T*S | T/S | S
+S --> F^S | F
+F --> (E) | i
